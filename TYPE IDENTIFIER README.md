@@ -1,2 +1,2 @@
 # Java
-Fortune Teller program using Java
+A Java program that shows the different types in the code.
